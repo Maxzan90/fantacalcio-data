@@ -1,1 +1,6 @@
-
+[
+  {"name":"Sommer","team":"Inter","role":"P","ai":18},
+  {"name":"Dimarco","team":"Inter","role":"D","ai":52},
+  {"name":"Barella","team":"Inter","role":"C","ai":48},
+  {"name":"Lautaro","team":"Inter","role":"A","ai":95}
+]
